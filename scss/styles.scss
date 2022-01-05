@@ -350,7 +350,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/nightsky.jpg);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
@@ -378,7 +378,7 @@ footer {
     }
 
     h2 {
-        color: lighten($base-color, 25%);
+        color: #ffffff;
         font-weight: 500;
         font-size: 2.25em;
         margin-bottom: 15px;
