@@ -172,7 +172,7 @@ The Project section contains a number of `.project` elements that represent each
 ```HTML
 <div class="project">
     <div class="project-image">
-        <img src="images/project.jpg" />
+        <img src="images/project.png" />
     </div>
     <!-- End .project-image -->
 
